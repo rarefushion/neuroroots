@@ -1,0 +1,14 @@
+# Limit the subject line to 50 characters
+# Capitalize the subject line
+# Do not end the subject line with a period
+# Use the imperative mood in the subject line
+# Subject line starts with type (Add, Mod, Del)
+# After type in parenthesies name the base bath of the change
+# e.g. Add(model): math solver
+# e.g. Mod(benchmarks): updated benchmarks for newest math solver model
+# Separate subject line from body with a blank line
+
+# Wrap the body at 72 characters
+# Use the body to explain in detail
+# What does it do and how is it used?
+# Don't describe how it's done.
