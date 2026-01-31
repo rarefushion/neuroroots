@@ -1,5 +1,4 @@
 # The Spark
----
 ### Modern Problem
 Current LLMs, AI, Neural Networks consume exorbitant amounts of power and are notoriously difficult to run. These core issues make running quality LLMs only viable for large corporations. Resulting in data centers that literally dry up communities, stifled innovation and compromise privacy- the list goes on.
 
@@ -18,7 +17,6 @@ The whole model does not need to be loaded all at once. Dynamically loading only
 The potential extends far beyond solving the initial problem. Not only could it massively improve upon the energy and accessibility challenges, it could even evolve into a unified all-in-one neural network. One network to rule them all!
 
 # Details
----
 This is an open-source, community-driven project. Many methods will be tested throughout the project's lifetime. You can find active tests in this project's branches. Ideas can be found on the github project's [Discussion page.](https://github.com/rarefushion/neuroroots/discussions/categories/ideas) You're invited to discuss, branch and contribute. Your unique skill set is well welcomed. Together we can build a democratized, eco-friendly AI.
 
 Broad thoughts: I see two approaches for linking connections, local or global connections. can one weight connect to any other weight or should it be localized with a specified number possible connections?
