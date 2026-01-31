@@ -7,10 +7,13 @@ This project aims to make neural networks more efficient, powerful and easier to
 
 ### Strategies
 * Linked Tree-Based Activation of Weights
+
 Each weight dynamically chooses the next and self reinforces. Meaning not all weights need to be loaded at once, drastically reducing active memory usage.
 * Multi-Entry Inputs, Dynamic Routing
+
 Human eyes, ears and all tactile senses enter at different parts of the brain. With the linked tree of weights we can start from anywhere in the network. This encourages specialized regions to form. Allowing potentially for an infinite number of specialized subjects and native multi-modal models.
 * Dynamic Loading from Storage
+
 The whole model does not need to be loaded all at once. Dynamically loading only the required weights means models can be as large as your hard drive while a only a fraction stays in active memory.
 
 ### Potential
@@ -18,5 +21,3 @@ The potential extends far beyond solving the initial problem. Not only could it 
 
 # Details
 This is an open-source, community-driven project. Many methods will be tested throughout the project's lifetime. You can find active tests in this project's branches. Ideas can be found on the github project's [Discussion page.](https://github.com/rarefushion/neuroroots/discussions/categories/ideas) You're invited to discuss, branch and contribute. Your unique skill set is well welcomed. Together we can build a democratized, eco-friendly AI.
-
-Broad thoughts: I see two approaches for linking connections, local or global connections. can one weight connect to any other weight or should it be localized with a specified number possible connections?
