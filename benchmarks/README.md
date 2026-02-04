@@ -1,5 +1,6 @@
 # Benchmarks
-Shared tooling and results for evaluating models and components.
+Shared tooling for evaluating models.
 
-- Use `benchmarks/` for scripts, profilers, and aggregated results.
-- Model-specific evaluation outputs belong in `models/<name>/eval/`.
+- Use `benchmarks/` for tools that benchmark and evaluate models.
+- Benchmarks are ran with their specific instructions and will output an evaluation txt(or similar) file.
+- Model-specific evaluation outputs belong in `models/<model path>/eval/`.
